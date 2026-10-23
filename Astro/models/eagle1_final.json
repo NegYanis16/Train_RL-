@@ -1,0 +1,11 @@
+{
+  "algo": "PPO",
+  "experience": "P3_gamma_seed1",
+  "test": {
+    "moyenne": 282.41837928999996,
+    "ecart_type": 18.339692600079367,
+    "minimum": 230.146555,
+    "taux_reussite": 1.0,
+    "duree_moyenne": 207.92
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "algo": "DQN",
+  "parametres": {},
+  "total_timesteps": 300000,
+  "n_envs": 1,
+  "seed": 0,
+  "meilleur_score_callback": -6.521416249999999,
+  "evaluation": {
+    "moyenne": -41.43286302999999,
+    "ecart_type": 138.89396734856695,
+    "minimum": -243.386719,
+    "taux_reussite": 0.15,
+    "duree_moyenne": 904.75
+  },
+  "duree_minutes": 7.7
+}

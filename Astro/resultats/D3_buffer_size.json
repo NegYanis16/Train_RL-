@@ -1,0 +1,20 @@
+{
+  "algo": "DQN",
+  "parametres": {
+    "target_update_interval": 250,
+    "learning_rate": 0.0006,
+    "buffer_size": 50000
+  },
+  "total_timesteps": 300000,
+  "n_envs": 1,
+  "seed": 0,
+  "meilleur_score_callback": 199.34277385,
+  "evaluation": {
+    "moyenne": 187.57894858,
+    "ecart_type": 85.39544428958769,
+    "minimum": -124.300395,
+    "taux_reussite": 0.61,
+    "duree_moyenne": 588.51
+  },
+  "duree_minutes": 6.7
+}

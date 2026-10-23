@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Journaux TensorBoard de Stable-Baselines3
+exercice3/logs/
+
+Astro/logs/
+
+.env.local
+Astro/data/

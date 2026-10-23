@@ -1,0 +1,19 @@
+{
+  "algo": "PPO",
+  "parametres": {
+    "n_steps": 1024,
+    "gamma": 0.999
+  },
+  "total_timesteps": 1000000,
+  "n_envs": 16,
+  "seed": 1,
+  "meilleur_score_callback": 289.28185199999996,
+  "evaluation": {
+    "moyenne": 283.56684578,
+    "ecart_type": 19.058352255020715,
+    "minimum": 237.312681,
+    "taux_reussite": 1.0,
+    "duree_moyenne": 209.89
+  },
+  "duree_minutes": 11.2
+}

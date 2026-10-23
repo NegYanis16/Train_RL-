@@ -1,0 +1,30 @@
+# Dépendances du projet Eagle-1 (versions du venv où tout a été testé)
+# Installation : uv pip install -r requirements.txt
+
+# Apprentissage par renforcement
+gymnasium[box2d]==1.4.0
+stable-baselines3==2.9.0
+torch==2.14.1
+tensorboard==2.21.0
+
+# API
+fastapi==0.143.3
+uvicorn==0.54.0
+sqlalchemy==2.1.5
+imageio==2.38.1
+imageio-ffmpeg==0.6.0
+
+# GUI et tableau de bord
+streamlit==1.66.1
+altair==6.3.0
+pandas==3.1.0
+httpx==0.28.1
+
+# Configuration et logs
+python-dotenv==1.2.4
+loguru==0.7.3
+
+# Notebook et tests
+matplotlib==3.11.2
+ipykernel==7.4.0
+pytest==9.1.1
